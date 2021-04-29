@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/none-pls.dir/src/ThingSpeak.cpp.o -o none-pls 
